@@ -5,4 +5,4 @@
 
 
 
-![image](./tela_site.jpg)
+![image](./tela_site.JPG)
